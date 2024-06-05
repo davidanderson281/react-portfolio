@@ -22,7 +22,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>9+ Years Working</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon' />
@@ -37,7 +37,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim veritatis quam hic minima magnam repudiandae corporis deserunt exercitationem alias, sint inventore quibusdam deleniti modi aspernatur, debitis rem, laboriosam esse a!
+          Experienced Software Engineer with a demonstrated history of working in the various industries such as finance, manufactoring and government. Skilled in Java, Groovy, Angular and various training frameworks. 
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
